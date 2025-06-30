@@ -3,13 +3,6 @@
 
 ### Passo a passo
 Clone Repositório
-```sh
-git clone -b laravel-10-com-php-8.1 https://github.com/especializati/setup-docker-laravel.git app-laravel
-```
-```sh
-cd app-laravel
-```
-
 
 Crie o Arquivo .env
 ```sh
